@@ -1,0 +1,62 @@
+
+
+html,body
+{
+    margin: 0px;
+    padding: 0px;
+}
+/* navbar start */
+nav li{
+
+display: inline;
+margin-left: 100px;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.banner{
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://evolvemga.com/wp-content/uploads/2017/02/Corporate-Buildings.jpg)
+
+
+}
+
+nav{
+    padding-top: 20px;
+}
+
+.logo{
+    font-size:30px ;
+    font-weight: bold;
+}
+
+.btn{
+    background-color: green;
+    padding:6px 18px 5px 7px ;
+    color: white;
+    border-radius: green 1px solid ;
+    border-radius: 20px;
+}
+
+.btn:hover{
+    background-color: rgb(1, 59, 1);
+}
+
+.my-banner-content{
+    color: rgb(141, 2, 2);
+}
+
+.my-banner-content h1{
+   font-size: 50px;
+}
+
+.my-banner-content p{
+    font-size: 30;
+ }
+
+/* nav bar ends */
